@@ -1,2 +1,2 @@
 # vs
-project for visual studio on C#
+project in python basic tasks
