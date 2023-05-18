@@ -1,2 +1,2 @@
-# vs
+# python
 project in python basic tasks
