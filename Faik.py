@@ -1,0 +1,12 @@
+def main():
+    infile = open('students.txt','r')
+    line1 = infile.readline()
+    line2 = infile.readline()
+    lineЗ = infile.readline()
+    line4 = infile.readline()
+    infile.close()
+    print(line1)
+    print(line2)
+    print(lineЗ)
+    print(line4)
+main()

@@ -1,0 +1,11 @@
+def main():
+    outfile = open('students.txt', 'w')
+    num1 = int(input('Сан енгізіңіз: '))
+    num2 = int(input('Тағы сан енгізіңіз: '))
+    num3 = int(input("Тағы сан енгізіңіз: "))
+    outfile.write(str(num1) + '\n')
+    outfile.write(str(num2) + '\n')
+    outfile.write(str(num3) + '\n')
+    outfile.close()
+    print('Сандар файлға жазылады')
+main()
